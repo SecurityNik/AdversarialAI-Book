@@ -1,6 +1,9 @@
-# Coming Soon!
+# It is here! Get the FREE eBook
 <img width='50%' height='auto' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguco0AB8yWqErurXiuv0KQsDJkGg1XNr1MIVNktb17aif8eUUu0f-Ceqp9ZA1inyAG24_sVWpr6zXvpDWzWXPccR6hxk17GVAjeM2u9pS60vw8GV-A1c9mo30nuo5IgNfbOfILf9IeYj9Ha9YpJ0e3ujZ1Rjo8aqyv3CvVk0lnMH9lGxej7t-vyUIhsUA/s1536/A%20Little%20Book%20on%20Adversarial%20AI%20Cover.png'>
 
+Download a copy [here](https://bit.ly/41WonEI): 
+Download File: Little Note[Book] on Adversarial AI - Nik Alleyne.pdf
+SHA256Sum: f7282afbdf15bbf2ed8fea70e1b0a27630a9c359a3a17f1b4cf274f599cd6ec6 
 
 Over the past few months, I have been working on expanding my knowledge on Adversarial AI. Rather than putting together a bunch of [blogs posts](www.securitynik.com) , I decided to consolidate everything into one book.  
 
